@@ -1,4 +1,4 @@
-# Vaadin test app
+# Vaadin test app [![Build Status](https://travis-ci.com/pepo-malinov/Vaadin-test-project.svg)](https://travis-ci.com/pepo-malinov/Vaadin-test-project)
 
 This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
